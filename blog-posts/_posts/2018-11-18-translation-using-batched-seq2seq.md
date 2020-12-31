@@ -528,7 +528,7 @@ train_it(encoder,decoder,2, 1000, test = False, plot = True)
 ```
 
 
-![png](assets/img/translation-using-batched-seq2seq/batched_seq_2_seq_35_1.png)
+![png](../../assets/img/translation-using-batched-seq2seq/batched_seq_2_seq_35_1.png)
 
 
     CPU times: user 1min 14s, sys: 19.5 s, total: 1min 34s
@@ -550,7 +550,7 @@ train_it(encoder,decoder,32, 1000, test = False, plot = True)
 
 
 
-![png](assets/img/translation-using-batched-seq2seq/batched_seq_2_seq_36_1.png)
+![png](../../assets/img/translation-using-batched-seq2seq/batched_seq_2_seq_36_1.png)
 
 
     CPU times: user 1min 52s, sys: 29.6 s, total: 2min 21s
@@ -672,5 +672,5 @@ Iteration :   1000  _______  Loss :  tensor(31.7856, device='cuda:0', grad_fn=<T
 ---
 Finaly you will receive follwing plot of loss v/s iterations.
 
-![png](assets/img/translation-using-batched-seq2seq/batched_seq_2_seq_38_2.png)
+![png](../../assets/img/translation-using-batched-seq2seq/batched_seq_2_seq_38_2.png)
 
