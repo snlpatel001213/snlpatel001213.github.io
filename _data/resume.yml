@@ -1,10 +1,10 @@
 basics:
-  name: "Shahzaib Khan"
-  label: "Undergraduate BS(CS) Student"
+  name: "Sunil Patel"
+  label: "Data Scientist at Nvidia"
   picture: "/assets/icons/icon.png"
-  email: "shazaibahmed0000@gmail.com"
-  phone: "+92-335-6678673"
-  website: "https://hypertextassassin0273.github.io"
+  email: "snlpatel001213@hotmail.com"
+  phone: "+91-886-633-6960"
+  website: "https://snlpatel001213.github.io"
  
   summary: >
     I'm an aspiring student who seeks to learn something new every day. Currently, undergraduate at NUCES FAST-Karachi in BS(CS). <br><br>
@@ -26,11 +26,11 @@ basics:
     countryCode: "PK"
   profiles:
     - network: "Github"
-      username: "Shahzaib Khan"
-      url: "https://github.com/HypertextAssassin0273"
+      username: "Sunil Patel"
+      url: "https://github.com/snlpatel001213"
     - network: "LinkedIn"
-      username: "Shahzaib Khan"
-      url: "https://www.linkedin.com/in/shazaibahmed0273"
+      username: "Sunil Patel"
+      url: "https://www.linkedin.com/in/linus1"
 # work:
  # - company: "Circadence"
    # position: "Systems Architecture Engineer"

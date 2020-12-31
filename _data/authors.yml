@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Shahzaib Khan
-  email:             shazaibahmed0000@gmail.com
+  name:              Sunil Patel
+  email:             snlpatel001213@hotmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -23,12 +23,12 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    github:          HypertextAssassin0273
-    facebook:        shazaib.ahmed.100
-    linkedin:        shazaibahmed0273
-    twitter:         Shahzaib0273
-    stackoverflow:   13753378/hypertextassassin0273
-    email:           shazaibahmed0000@gmail.com
+    github:          snlpatel001213
+    facebook:        MeOptimus
+    linkedin:        linus1
+    # twitter:         Shahzaib0273
+    # stackoverflow:   13753378/hypertextassassin0273
+    email:           snlpatel001213@hotmail.com
     # quora:           Shazaib-Ahmed-11
     # resume:          /assets/Resume.pdf
     # youtube:         <username>
@@ -66,8 +66,8 @@ author1:
 
 # Another author (optional)
 author2:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
+  name:              <Sunil> <Patel>
+  email:             <snlpatel001213@hotmail.com>
   about:             |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
