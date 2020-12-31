@@ -6,96 +6,96 @@ basics:
   phone: "+91-886-633-6960"
   website: "https://snlpatel001213.github.io"
  
-  summary: >
-    I'm an aspiring student who seeks to learn something new every day. Currently, undergraduate at NUCES FAST-Karachi in BS(CS). <br><br>
-    My interests include Cyber-Security, Artificial Intelligence, Internet of Things, Defense, & Web Development. 
-    However, the list of all my passions extends much further.<br><br>
-    My dream job is to obtain a position where I can grow well to help others around me. 
-    If you're interested in something within my skill-set, or would like to discuss something tech. related then, feel free to reach out.<br><br> 
-    I'd love to talk.<br><br>
+  # summary: >
+  #   I'm an aspiring student who seeks to learn something new every day. Currently, undergraduate at NUCES FAST-Karachi in BS(CS). <br><br>
+  #   My interests include Cyber-Security, Artificial Intelligence, Internet of Things, Defense, & Web Development. 
+  #   However, the list of all my passions extends much further.<br><br>
+  #   My dream job is to obtain a position where I can grow well to help others around me. 
+  #   If you're interested in something within my skill-set, or would like to discuss something tech. related then, feel free to reach out.<br><br> 
+  #   I'd love to talk.<br><br>
     
-    <i title="Download" class="icon-box-add faded"><strong>  :  </strong></i><a href="/assets/Resume.pdf" class="external"><strong>Resume</strong></a>
-    <br>
-    <i title="Download" class="icon-box-add faded"><strong>  :  </strong></i><a href="/assets/Personal_Statement.pdf" class="external"><strong>Personal Statement</strong></a>
+  #   <i title="Download" class="icon-box-add faded"><strong>  :  </strong></i><a href="/assets/Resume.pdf" class="external"><strong>Resume</strong></a>
+  #   <br>
+  #   <i title="Download" class="icon-box-add faded"><strong>  :  </strong></i><a href="/assets/Personal_Statement.pdf" class="external"><strong>Personal Statement</strong></a>
 
-  location:
-    address: ""
-    postalCode: "74700"
-   # region: "North Nazimabad"
-    city: "Karachi"
-    countryCode: "PK"
-  profiles:
-    - network: "Github"
-      username: "Sunil Patel"
-      url: "https://github.com/snlpatel001213"
-    - network: "LinkedIn"
-      username: "Sunil Patel"
-      url: "https://www.linkedin.com/in/linus1"
-# work:
- # - company: "Circadence"
-   # position: "Systems Architecture Engineer"
-   # website: "https://www.circadence.com/"
-   # startDate: "2018-09-02"
-   # endDate: ""
-   # summary: >
-     # Working on the Research and Development team at Circadence to provide state of the art technologies for cyber-security penetration testing.
-   # highlights:
-     # - "Responsible for architecting, implementing and testing multiple software and firmware solutions for custom hardware."
-     # - "Utilized Software Defined Radio to spawn a custom 4GLTE Base station. Created an operation GUI for users to forward traffic, track logs and maintain Command and Control channels"
-education:
-  - institution: >
-      <a href="https://khi.nu.edu.pk">National University of Computer & Emerging Sciences, Karachi</a>
+#   location:
+#     address: ""
+#     postalCode: "74700"
+#    # region: "North Nazimabad"
+#     city: "Karachi"
+#     countryCode: "PK"
+#   profiles:
+#     - network: "Github"
+#       username: "Sunil Patel"
+#       url: "https://github.com/snlpatel001213"
+#     - network: "LinkedIn"
+#       username: "Sunil Patel"
+#       url: "https://www.linkedin.com/in/linus1"
+# # work:
+#  # - company: "Circadence"
+#    # position: "Systems Architecture Engineer"
+#    # website: "https://www.circadence.com/"
+#    # startDate: "2018-09-02"
+#    # endDate: ""
+#    # summary: >
+#      # Working on the Research and Development team at Circadence to provide state of the art technologies for cyber-security penetration testing.
+#    # highlights:
+#      # - "Responsible for architecting, implementing and testing multiple software and firmware solutions for custom hardware."
+#      # - "Utilized Software Defined Radio to spawn a custom 4GLTE Base station. Created an operation GUI for users to forward traffic, track logs and maintain Command and Control channels"
+# education:
+#   - institution: >
+#       <a href="https://khi.nu.edu.pk">National University of Computer & Emerging Sciences, Karachi</a>
  
-    area: "Computer Science"
-    studyType: "Bachelor"
-    startDate: "2019-07-01"
-   # endDate: "2023-05-01"
-  - institution: >
-      <a href="https://www.facebook.com/GovtDegreeCollegeGulshanEIqbalBlock7">Govt. Degree Science & Commerce College, Gulshan-e-Iqbal</a>
+#     area: "Computer Science"
+#     studyType: "Bachelor"
+#     startDate: "2019-07-01"
+#    # endDate: "2023-05-01"
+#   - institution: >
+#       <a href="https://www.facebook.com/GovtDegreeCollegeGulshanEIqbalBlock7">Govt. Degree Science & Commerce College, Gulshan-e-Iqbal</a>
   
-    area: "Pre-Engineering"
-    studyType: "FSc"
-    startDate: "2017-06-01"
-    endDate: "2019-4-01"
-# awards:
- # - title: "Startup School"
-   # date: "2018-09-01"
-   # awarder: "YCombinator"
-   # summary: "Completed YCombinator's Startup School program on how to build a successful startup."
-# publications:
- # - name: "How to Build In-Plants, a Mesh-Connected Soil Monitoring System"
-   # publisher: "Particle"
-   # releaseDate: "2019-05-06"
-   # website: "https://blog.particle.io/2019/05/06/learn-how-to-build-in-plants-a-mesh-connected-soil-monitoring-system/"
-   # summary: "Utilize the Internet of Things to watch over your house plants."
-skills:
-  - name: "Web Development"
-    level: "Amateur"
-    keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-languages:
-  - language: "C"
-    fluency: "full-professional-proficiency"
-  - language: "C++"
-    fluency: "professional working proficiency"
-  - language: "Javascript"
-    fluency: "elementary proficiency"  
-  # - language: "Assembly"
-   # fluency: "limited-working-proficiency"
-interests:
-  - name: "Cyber-Security"
-    keywords:
-      - "Physical Security"
-      - "Close Access Technology"
-  - name: "Internet of Things"
-    keywords:
-      - "Wireless Embeded Technology"
-      - "4G-LTE"
-      - "5G"
-# references:
-#   - name: "Erlich Bachman"
-#     reference: >
-#       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-#       Company proved that he will be a valuable addition to any company.
+#     area: "Pre-Engineering"
+#     studyType: "FSc"
+#     startDate: "2017-06-01"
+#     endDate: "2019-4-01"
+# # awards:
+#  # - title: "Startup School"
+#    # date: "2018-09-01"
+#    # awarder: "YCombinator"
+#    # summary: "Completed YCombinator's Startup School program on how to build a successful startup."
+# # publications:
+#  # - name: "How to Build In-Plants, a Mesh-Connected Soil Monitoring System"
+#    # publisher: "Particle"
+#    # releaseDate: "2019-05-06"
+#    # website: "https://blog.particle.io/2019/05/06/learn-how-to-build-in-plants-a-mesh-connected-soil-monitoring-system/"
+#    # summary: "Utilize the Internet of Things to watch over your house plants."
+# skills:
+#   - name: "Web Development"
+#     level: "Amateur"
+#     keywords:
+#       - "HTML"
+#       - "CSS"
+#       - "Javascript"
+# languages:
+#   - language: "C"
+#     fluency: "full-professional-proficiency"
+#   - language: "C++"
+#     fluency: "professional working proficiency"
+#   - language: "Javascript"
+#     fluency: "elementary proficiency"  
+#   # - language: "Assembly"
+#    # fluency: "limited-working-proficiency"
+# interests:
+#   - name: "Cyber-Security"
+#     keywords:
+#       - "Physical Security"
+#       - "Close Access Technology"
+#   - name: "Internet of Things"
+#     keywords:
+#       - "Wireless Embeded Technology"
+#       - "4G-LTE"
+#       - "5G"
+# # references:
+# #   - name: "Erlich Bachman"
+# #     reference: >
+# #       It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+# #       Company proved that he will be a valuable addition to any company.
