@@ -24,7 +24,7 @@ This is not just an ordinary blog a where I will show you some equation and sign
 - Speech to text
 - text to speech
 
-<p align="center"><img class="img-responsive" src="assets/img/sequence_network_appliocation.png"></p>
+<p align="center"><img class="img-responsive" src="../../assets/img/sequence_network_appliocation.png"></p>
 <p align="center">Figure 1. Symbolic representation showing different application of sequence to sequence network.</p>
 
 

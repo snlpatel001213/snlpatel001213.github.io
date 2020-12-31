@@ -47,7 +47,7 @@ embed_size = 28
 
 # Encoder
 
-<p align="center"><img class="img-responsive" src="https://learningdeep.xyz/assets/img/understanding_seq2seq_batch_encoder.jpg"></p>
+<p align="center"><img class="img-responsive" src="../../assets/img/understanding_seq2seq_batch_encoder.jpg"></p>
 
 
 <p align="center">Figure 1. Illustration of how baching works with sequence to sequence. Present image shows an example where **(1)** Shows 64 sentence having fixed length of 26 words are processed in single batch. **(2)** Five example sentences are shown such as **"My name is Sunil"**, **"I'm Deep Learning Geek"**, **"I love CUDA"**, **"I love Pytorch"**,** "TF is Aww"**. To process them in batch each sentence is transposed. Each sentence is padded with "PAD" token to make legnth equal to **26** as shown in **(2)**. At each iteration at time *t*, row-wise 64 element are taken and 128 dimensional embedding is calculated for each word as shown in **(3)**. such 64 element are processed with LSTM/GRU as shown in **(4)**. LSTM/GRU results in encoder output and encoder hidden state , encoder hidden state will be used in *t + 1* **(5)**. Next time at *t + 1* iteration 64 elements are taken and processed and simillar way. This iteration will be repeated for 26 times and at last encoder hidden of *t = 26* is passed to Decoder to use it as Decoder hidden.</p>
@@ -125,7 +125,7 @@ print("ENCODER OUTPUT SHAPE : ", encoder_output.shape, "ENCODER HIDDEN STATE SHA
 
 # Decoder
 
-<p align="center"><img class="img-responsive" src="https://learningdeep.xyz/assets/img/understanding_seq2seq_batch_decoder.jpg"></p>
+<p align="center"><img class="img-responsive" src="../../assets/img/understanding_seq2seq_batch_decoder.jpg"></p>
 
 
 <p align="center">Figure 2. Where Decoding Phsase is shown.**(1)** Sentences having double lenght 52 (26*2) is shown with batch size 64. To make sentence equal padding (PAD token) is used as shown as **(2)**. Each time step slice of shape 64 is taken and 28 dimensional embedding is generated for eachword **(3)**. such slice havinf embedding having of shape [64, 1, 28] is processed with GRU/LSTM **(4)**. GRU/LSTM  gives two things as output, A. Decoder output and B. Decoder hidden **(5)**. Decoder outputs are stacked and will be final output after all time step (t = 52) are processed **(6)**. At each time step Decoder hidden od previous time step is used.</p>
