@@ -12,7 +12,7 @@ accent_image:
   overlay:    true
 ---
 
-# Setting up C/C++ environment for any project
+## Setting up C/C++ environment for any project
 
 There are many languages but there is no match for the simplicity and speed that any C/C++ program offers.   It not easy to setup the perfect developer environment for as it is with other language like python and R. 
 
