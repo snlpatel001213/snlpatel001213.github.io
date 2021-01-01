@@ -30,7 +30,7 @@ For Python users, there is a PyPI package called tsne. You can install it easil
     3. petal length in cm
     4. petal width in cm
 
-    So this is four dimensional data and our task is to visualize all classes as clusters in two dimensional image. Following code will use T-SNE technique to visualize all 3 classes separately.
+    So this is four dimensional data and our task is to visualise all classes as clusters in two dimensional image. Following code will use T-SNE technique to visualise all 3 classes separately.
 
     ```python
     import csv
@@ -88,7 +88,7 @@ For Python users, there is a PyPI package called tsne. You can install it easil
 
     <p align="center">Figure 2. MNIST data-set representation</p>
 
-   MNIST Digit data-set is already included in the sklearn package.  In MNIST data-set each digit is given in form of image of 8*8 pixels as shown in figure 2. MNIST data-set is in the form of a dictionary with two parts:
+   MNIST Digit data-set is already included in the sk-learn package.  In MNIST data-set each digit is given in form of image of 8*8 pixels as shown in figure 2. MNIST data-set is in the form of a dictionary with two parts:
 
     1. digit['images'],  1797 images of size 8*8  pixel represented by floats
 
@@ -125,4 +125,4 @@ For Python users, there is a PyPI package called tsne. You can install it easil
 
     <p align="center">Figure 2. MNIST data-set processed with TSNE</p>
 
-    We will be  using the same visualization technique in upcoming tutorial of [SMOTE](https://www.machinelearningpython.org/single-post/SMOTE-Synthetic-Minority-Over-sampling-Technique).
+    We will be  using the same visualisation technique in upcoming tutorial of [SMOTE](https://www.machinelearningpython.org/single-post/SMOTE-Synthetic-Minority-Over-sampling-Technique).
