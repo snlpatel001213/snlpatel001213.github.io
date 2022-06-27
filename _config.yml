@@ -2,16 +2,16 @@
 title: Sunil Patel
 subtitle: Deep Learning Data Scientist -IV, Nvidia
 email: snlpatel001213@hotmail.com
-description: This is my profile page to show what my regular resume cannot...<br /> This is the place to present what I did in my carrier.
+description: This is my profile page to show what my regular resume cannot...<br/> This is the place to present what I did in my carrier.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site
 author: Sunil Patel
 street_address: B-602, Lakeshoregreen,
-city: Nashville
-state: TN
+city: Mumbai
+state: MH
 zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+country: India
+phone: (886) 633-6960
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
