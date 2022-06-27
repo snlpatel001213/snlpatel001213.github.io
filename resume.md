@@ -2,7 +2,6 @@
 layout: page
 title: Resume
 description: Actually more than a resume
-image: assets/images/pic01.jpg
 nav-menu: true
 ---
 

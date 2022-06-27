@@ -2,7 +2,6 @@
 layout: post
 title: Arm and Ammunition
 description: Yes! you read it right arms and ammunitions! Here is the list of tools and languages that I use to deliver the best.
-image: assets/images/pic11.jpg
 nav-menu: true
 ---
 <div id="main" class="alt">

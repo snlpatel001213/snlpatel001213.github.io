@@ -2,7 +2,6 @@
 layout: page
 title: Projects
 description: Things that I have developed and love to work with...
-image: assets/images/pic01.jpg
 nav-menu: true
 ---
 
