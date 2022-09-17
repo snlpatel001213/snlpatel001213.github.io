@@ -4,7 +4,7 @@ subtitle: Deep Learning Data Scientist -IV, Nvidia
 email: snlpatel001213@hotmail.com
 description: This is my profile page to show what my regular resume cannot...<br/> This is the place to present what I did in my career.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "index.html" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 author: Sunil Patel
 street_address: B-602, Lakeshoregreen,
 city: Mumbai
